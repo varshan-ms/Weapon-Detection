@@ -77,7 +77,13 @@ weapon-detection/
 ├── main.py                     # Main application file
 ├── requirements.txt            # Project dependencies
 └── README.md                   # Project README file
+
 ```
+![alert](https://github.com/varshan-ms/Weapon-Detection/assets/170520754/4f940362-a103-43e1-9ed2-555d990a3e14)
+
+![lena_invert](https://github.com/varshan-ms/Weapon-Detection/assets/170520754/1f8335a8-63d6-4776-a1a9-2d8c6433022e)
+
+
 
 ## Contributing
 
